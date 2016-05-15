@@ -31,6 +31,10 @@
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:theme="@style/AppTheme.Translucent" />
         <activity android:name=".support.CustomYouTubeControlsActivity" />
+        <activity
+            android:name=".IntroActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait" />
 
     </application>
 

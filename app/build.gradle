@@ -38,5 +38,7 @@ dependencies {
     compile 'com.android.support:design:23.1.1'
     compile 'com.firebase:firebase-client-android:2.4.1+'
     compile 'com.firebaseui:firebase-ui:0.2.0'
+    compile 'com.yalantis:sidemenu:1.0'
+    compile 'com.google.android.gms:play-services-appindexing:8.1.0'
     compile 'com.google.apis:google-api-services-youtube:v3-rev171-1.22.0'
 }
