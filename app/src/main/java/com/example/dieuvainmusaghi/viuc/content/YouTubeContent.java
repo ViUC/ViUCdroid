@@ -47,11 +47,12 @@ public class YouTubeContent {
     public static Map<String, YouTubeVideo> ITEM_MAP = new HashMap<>();
 
     static {
-        addItem(new YouTubeVideo("tttG6SdnCd4", "Open in the YouTube App"));
-        addItem(new YouTubeVideo("x-hH_Txxzls", "Open in the YouTube App in fullscreen"));
-        addItem(new YouTubeVideo("TTh_qYMzSZk", "Open in the Standalone player in fullscreen"));
+        addItem(new YouTubeVideo("RE5Xou56Xlw", "Apprendre Android #4 Les Listes"));
+        addItem(new YouTubeVideo("t0WeH-DFfEU", "Apprendre Android #5 AlertDialog"));
+        addItem(new YouTubeVideo("2omzGsC-NFM", "Open in the Standalone player in fullscreen"));
         addItem(new YouTubeVideo("tttG6SdnCd4", "Open in the Standalone player in \"Light Box\" mode"));
-        addItem(new YouTubeVideo("x-hH_Txxzls", "Open in the YouTubeFragment"));
+        addItem(new YouTubeVideo("2omzGsC-NFM", "Apprendre Android #3 Listener-GenyMotion"));
+
         addItem(new YouTubeVideo("TTh_qYMzSZk", "Hosting the YouTubeFragment in an Activity"));
         addItem(new YouTubeVideo("tttG6SdnCd4", "Open in the YouTubePlayerView"));
         addItem(new YouTubeVideo("x-hH_Txxzls", "Custom \"Light Box\" player with fullscreen handling"));
